@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is svyat
 #### im just a guy whos try to learn programming or web designing 
-![im just a guy whos try to learn programming or web designing ](https://github.com/svyat777/svyat777.github.io/blob/main/alice.jpg)
+![im just a guy whos try to learn programming or web designing ](https://github.com/svyat777/svyat777.github.io/blob/main/alice.png)
 
 
 Skills: PHP / JS / HTML / CSS / ANDROID / C#
