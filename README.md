@@ -31,14 +31,27 @@
 
 ### 📫 Contact Me
 
-<p>
-  <a href="https://github.com/svyat777"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" /></a>
-  <a href="https://www.instagram.com/wasntawesome"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" /></a>
-  <a href="https://youtube.com/@wasntawesome"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="32" /></a>
-  <a href="https://www.reddit.com/user/wasntawesome"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reddit.svg" width="32" /></a>
-  <a href="https://t.me/wasntawesome"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="32" /></a>
-  <a href="https://on.soundcloud.com/3G5j2A63VLIdAqjAdm"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/soundcloud.svg" width="32" /></a>
+<p align="left">
+  <a href="https://github.com/svyat777" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" />
+  </a>
+  <a href="https://www.instagram.com/wasntawesome" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" />
+  </a>
+  <a href="https://youtube.com/@wasntawesome" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="32" />
+  </a>
+  <a href="https://www.reddit.com/user/wasntawesome" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reddit.svg" width="32" />
+  </a>
+  <a href="https://t.me/wasntawesome" style="margin-right: 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="32" />
+  </a>
+  <a href="https://on.soundcloud.com/3G5j2A63VLIdAqjAdm">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/soundcloud.svg" width="32" />
+  </a>
 </p>
+
 
 ---
 
